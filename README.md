@@ -1,20 +1,20 @@
-#Demo App
+# Demo App
 
 Laravel 9 based PHP app for coding Demo
 
-##Configuration
+## Configuration
 
 Works with provided .sql file loaded into database configured in the .env file
 
-##Run
+## Run
 
  - Requires PHP 8
  - `composer install`
  - `php artisan serve`
 
- ##Ship Date Parsing
+## Ship Date Parsing
 
 `php artisan comments:shipdate`
 
-##Thank you
+## Thank you
 Eric Seyden
