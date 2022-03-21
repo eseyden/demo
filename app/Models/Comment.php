@@ -8,6 +8,7 @@ class Comment extends Model
 {
     protected $table = 'sweetwater_test';
     protected $primaryKey = 'orderid';
+    public $timestamps = false;
     protected $fillabe = [
         'comments',
         'shipdate_expected'
